@@ -1,7 +1,7 @@
 c
 c SAT instance in DIMACS CNF input format.
 c
-p cnf 100 411
+p cnf 99 411
 -56  -86  100  0
 -27  -48  69  0
 5  12  33  0

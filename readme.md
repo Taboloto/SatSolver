@@ -62,4 +62,4 @@ p cnf 20  91 <br>
 + the line that starts with p describes the characteristics of the formula (cnf (conjunctive Normal Form), 20 (number of literals), 91 (number of clauses))
 + each line is a clause and has to end with a '0'
 ### Developer
-__LORENZO TABARELLI__"# sat_solver" 
+_LORENZO TABARELLI_
