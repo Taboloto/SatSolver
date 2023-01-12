@@ -1,0 +1,62 @@
+Reading from pret150_25.cnf --- file number 1 
+ ===== 5.154 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from pret150_40.cnf --- file number 2 
+ ===== 4.824 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from pret150_60.cnf --- file number 3 
+ ===== 5.184 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from pret150_75.cnf --- file number 4 
+ ===== 4.908 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from pret60_25.cnf --- file number 5 
+ ===== 0.455 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from pret60_40.cnf --- file number 6 
+ ===== 0.492 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from pret60_60.cnf --- file number 7 
+ ===== 0.569 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from pret60_75.cnf --- file number 8 
+ ===== 0.633 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+
+ [--------------------------------------------------------------------------------------------------] 
+ ===== 8 files FINISHED in 22.219 seconds ===== 
+ ===== HEURISTIC  VSIDS ===== 
+ ===== SAT  0 ===== 
+ ===== UNSAT  8 ===== 

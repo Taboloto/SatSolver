@@ -1,0 +1,7006 @@
+Reading from uuf50-01.cnf --- file number 1 
+ ===== 0.063 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-010.cnf --- file number 2 
+ ===== 0.047 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0100.cnf --- file number 3 
+ ===== 0.046 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-01000.cnf --- file number 4 
+ ===== 0.071 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0101.cnf --- file number 5 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0102.cnf --- file number 6 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0103.cnf --- file number 7 
+ ===== 0.098 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0104.cnf --- file number 8 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0105.cnf --- file number 9 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0106.cnf --- file number 10 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0107.cnf --- file number 11 
+ ===== 0.097 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0108.cnf --- file number 12 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0109.cnf --- file number 13 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-011.cnf --- file number 14 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0110.cnf --- file number 15 
+ ===== 0.148 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0111.cnf --- file number 16 
+ ===== 0.101 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0112.cnf --- file number 17 
+ ===== 0.102 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0113.cnf --- file number 18 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0114.cnf --- file number 19 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0115.cnf --- file number 20 
+ ===== 0.051 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0116.cnf --- file number 21 
+ ===== 0.107 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0117.cnf --- file number 22 
+ ===== 0.042 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0118.cnf --- file number 23 
+ ===== 0.151 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0119.cnf --- file number 24 
+ ===== 0.161 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-012.cnf --- file number 25 
+ ===== 0.048 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0120.cnf --- file number 26 
+ ===== 0.093 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0121.cnf --- file number 27 
+ ===== 0.047 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0122.cnf --- file number 28 
+ ===== 0.051 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0123.cnf --- file number 29 
+ ===== 0.095 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0124.cnf --- file number 30 
+ ===== 0.107 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0125.cnf --- file number 31 
+ ===== 0.031 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0126.cnf --- file number 32 
+ ===== 0.049 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0127.cnf --- file number 33 
+ ===== 0.182 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0128.cnf --- file number 34 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0129.cnf --- file number 35 
+ ===== 0.101 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-013.cnf --- file number 36 
+ ===== 0.075 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0130.cnf --- file number 37 
+ ===== 0.077 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0131.cnf --- file number 38 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0132.cnf --- file number 39 
+ ===== 0.096 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0133.cnf --- file number 40 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0134.cnf --- file number 41 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0135.cnf --- file number 42 
+ ===== 0.057 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0136.cnf --- file number 43 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0137.cnf --- file number 44 
+ ===== 0.093 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0138.cnf --- file number 45 
+ ===== 0.075 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0139.cnf --- file number 46 
+ ===== 0.071 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-014.cnf --- file number 47 
+ ===== 0.042 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0140.cnf --- file number 48 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0141.cnf --- file number 49 
+ ===== 0.119 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0142.cnf --- file number 50 
+ ===== 0.114 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0143.cnf --- file number 51 
+ ===== 0.102 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0144.cnf --- file number 52 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0145.cnf --- file number 53 
+ ===== 0.072 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0146.cnf --- file number 54 
+ ===== 0.049 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0147.cnf --- file number 55 
+ ===== 0.248 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0148.cnf --- file number 56 
+ ===== 0.233 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0149.cnf --- file number 57 
+ ===== 0.329 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-015.cnf --- file number 58 
+ ===== 0.239 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0150.cnf --- file number 59 
+ ===== 0.244 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0151.cnf --- file number 60 
+ ===== 0.053 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0152.cnf --- file number 61 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0153.cnf --- file number 62 
+ ===== 0.178 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0154.cnf --- file number 63 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0155.cnf --- file number 64 
+ ===== 0.103 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0156.cnf --- file number 65 
+ ===== 0.155 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0157.cnf --- file number 66 
+ ===== 0.123 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0158.cnf --- file number 67 
+ ===== 0.134 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0159.cnf --- file number 68 
+ ===== 0.234 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-016.cnf --- file number 69 
+ ===== 0.061 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0160.cnf --- file number 70 
+ ===== 0.138 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0161.cnf --- file number 71 
+ ===== 0.157 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0162.cnf --- file number 72 
+ ===== 0.161 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0163.cnf --- file number 73 
+ ===== 0.181 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0164.cnf --- file number 74 
+ ===== 0.138 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0165.cnf --- file number 75 
+ ===== 0.130 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0166.cnf --- file number 76 
+ ===== 0.161 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0167.cnf --- file number 77 
+ ===== 0.155 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0168.cnf --- file number 78 
+ ===== 0.130 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0169.cnf --- file number 79 
+ ===== 0.083 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-017.cnf --- file number 80 
+ ===== 0.152 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0170.cnf --- file number 81 
+ ===== 0.133 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0171.cnf --- file number 82 
+ ===== 0.147 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0172.cnf --- file number 83 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0173.cnf --- file number 84 
+ ===== 0.118 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0174.cnf --- file number 85 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0175.cnf --- file number 86 
+ ===== 0.134 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0176.cnf --- file number 87 
+ ===== 0.154 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0177.cnf --- file number 88 
+ ===== 0.163 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0178.cnf --- file number 89 
+ ===== 0.143 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0179.cnf --- file number 90 
+ ===== 0.057 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-018.cnf --- file number 91 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0180.cnf --- file number 92 
+ ===== 0.194 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0181.cnf --- file number 93 
+ ===== 0.123 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0182.cnf --- file number 94 
+ ===== 0.163 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0183.cnf --- file number 95 
+ ===== 0.174 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0184.cnf --- file number 96 
+ ===== 0.191 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0185.cnf --- file number 97 
+ ===== 0.091 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0186.cnf --- file number 98 
+ ===== 0.095 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0187.cnf --- file number 99 
+ ===== 0.169 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0188.cnf --- file number 100 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0189.cnf --- file number 101 
+ ===== 0.190 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-019.cnf --- file number 102 
+ ===== 0.127 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0190.cnf --- file number 103 
+ ===== 0.134 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0191.cnf --- file number 104 
+ ===== 0.147 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0192.cnf --- file number 105 
+ ===== 0.153 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0193.cnf --- file number 106 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0194.cnf --- file number 107 
+ ===== 0.170 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0195.cnf --- file number 108 
+ ===== 0.228 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0196.cnf --- file number 109 
+ ===== 0.151 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0197.cnf --- file number 110 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0198.cnf --- file number 111 
+ ===== 0.076 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0199.cnf --- file number 112 
+ ===== 0.171 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-02.cnf --- file number 113 
+ ===== 0.098 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-020.cnf --- file number 114 
+ ===== 0.144 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0200.cnf --- file number 115 
+ ===== 0.088 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0201.cnf --- file number 116 
+ ===== 0.122 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0202.cnf --- file number 117 
+ ===== 0.194 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0203.cnf --- file number 118 
+ ===== 0.113 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0204.cnf --- file number 119 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0205.cnf --- file number 120 
+ ===== 0.192 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0206.cnf --- file number 121 
+ ===== 0.133 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0207.cnf --- file number 122 
+ ===== 0.184 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0208.cnf --- file number 123 
+ ===== 0.127 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0209.cnf --- file number 124 
+ ===== 0.139 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-021.cnf --- file number 125 
+ ===== 0.181 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0210.cnf --- file number 126 
+ ===== 0.239 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0211.cnf --- file number 127 
+ ===== 0.180 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0212.cnf --- file number 128 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0213.cnf --- file number 129 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0214.cnf --- file number 130 
+ ===== 0.198 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0215.cnf --- file number 131 
+ ===== 0.152 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0216.cnf --- file number 132 
+ ===== 0.107 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0217.cnf --- file number 133 
+ ===== 0.160 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0218.cnf --- file number 134 
+ ===== 0.150 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0219.cnf --- file number 135 
+ ===== 0.139 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-022.cnf --- file number 136 
+ ===== 0.200 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0220.cnf --- file number 137 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0221.cnf --- file number 138 
+ ===== 0.078 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0222.cnf --- file number 139 
+ ===== 0.059 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0223.cnf --- file number 140 
+ ===== 0.163 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0224.cnf --- file number 141 
+ ===== 0.152 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0225.cnf --- file number 142 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0226.cnf --- file number 143 
+ ===== 0.219 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0227.cnf --- file number 144 
+ ===== 0.131 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0228.cnf --- file number 145 
+ ===== 0.117 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0229.cnf --- file number 146 
+ ===== 0.147 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-023.cnf --- file number 147 
+ ===== 0.202 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0230.cnf --- file number 148 
+ ===== 0.169 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0231.cnf --- file number 149 
+ ===== 0.115 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0232.cnf --- file number 150 
+ ===== 0.083 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0233.cnf --- file number 151 
+ ===== 0.127 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0234.cnf --- file number 152 
+ ===== 0.128 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0235.cnf --- file number 153 
+ ===== 0.101 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0236.cnf --- file number 154 
+ ===== 0.181 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0237.cnf --- file number 155 
+ ===== 0.192 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0238.cnf --- file number 156 
+ ===== 0.205 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0239.cnf --- file number 157 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-024.cnf --- file number 158 
+ ===== 0.182 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0240.cnf --- file number 159 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0241.cnf --- file number 160 
+ ===== 0.091 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0242.cnf --- file number 161 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0243.cnf --- file number 162 
+ ===== 0.110 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0244.cnf --- file number 163 
+ ===== 0.170 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0245.cnf --- file number 164 
+ ===== 0.103 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0246.cnf --- file number 165 
+ ===== 0.138 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0247.cnf --- file number 166 
+ ===== 0.121 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0248.cnf --- file number 167 
+ ===== 0.098 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0249.cnf --- file number 168 
+ ===== 0.185 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-025.cnf --- file number 169 
+ ===== 0.101 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0250.cnf --- file number 170 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0251.cnf --- file number 171 
+ ===== 0.232 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0252.cnf --- file number 172 
+ ===== 0.301 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0253.cnf --- file number 173 
+ ===== 0.158 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0254.cnf --- file number 174 
+ ===== 0.109 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0255.cnf --- file number 175 
+ ===== 0.209 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0256.cnf --- file number 176 
+ ===== 0.156 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0257.cnf --- file number 177 
+ ===== 0.191 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0258.cnf --- file number 178 
+ ===== 0.093 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0259.cnf --- file number 179 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-026.cnf --- file number 180 
+ ===== 0.109 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0260.cnf --- file number 181 
+ ===== 0.175 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0261.cnf --- file number 182 
+ ===== 0.095 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0262.cnf --- file number 183 
+ ===== 0.095 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0263.cnf --- file number 184 
+ ===== 0.144 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0264.cnf --- file number 185 
+ ===== 0.149 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0265.cnf --- file number 186 
+ ===== 0.115 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0266.cnf --- file number 187 
+ ===== 0.128 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0267.cnf --- file number 188 
+ ===== 0.228 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0268.cnf --- file number 189 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0269.cnf --- file number 190 
+ ===== 0.072 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-027.cnf --- file number 191 
+ ===== 0.177 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0270.cnf --- file number 192 
+ ===== 0.076 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0271.cnf --- file number 193 
+ ===== 0.087 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0272.cnf --- file number 194 
+ ===== 0.106 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0273.cnf --- file number 195 
+ ===== 0.146 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0274.cnf --- file number 196 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0275.cnf --- file number 197 
+ ===== 0.211 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0276.cnf --- file number 198 
+ ===== 0.193 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0277.cnf --- file number 199 
+ ===== 0.118 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0278.cnf --- file number 200 
+ ===== 0.098 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0279.cnf --- file number 201 
+ ===== 0.060 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-028.cnf --- file number 202 
+ ===== 0.135 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0280.cnf --- file number 203 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0281.cnf --- file number 204 
+ ===== 0.131 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0282.cnf --- file number 205 
+ ===== 0.091 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0283.cnf --- file number 206 
+ ===== 0.155 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0284.cnf --- file number 207 
+ ===== 0.108 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0285.cnf --- file number 208 
+ ===== 0.093 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0286.cnf --- file number 209 
+ ===== 0.176 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0287.cnf --- file number 210 
+ ===== 0.145 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0288.cnf --- file number 211 
+ ===== 0.104 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0289.cnf --- file number 212 
+ ===== 0.156 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-029.cnf --- file number 213 
+ ===== 0.127 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0290.cnf --- file number 214 
+ ===== 0.130 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0291.cnf --- file number 215 
+ ===== 0.151 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0292.cnf --- file number 216 
+ ===== 0.090 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0293.cnf --- file number 217 
+ ===== 0.075 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0294.cnf --- file number 218 
+ ===== 0.168 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0295.cnf --- file number 219 
+ ===== 0.119 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0296.cnf --- file number 220 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0297.cnf --- file number 221 
+ ===== 0.110 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0298.cnf --- file number 222 
+ ===== 0.152 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0299.cnf --- file number 223 
+ ===== 0.213 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-03.cnf --- file number 224 
+ ===== 0.087 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-030.cnf --- file number 225 
+ ===== 0.078 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0300.cnf --- file number 226 
+ ===== 0.107 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0301.cnf --- file number 227 
+ ===== 0.156 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0302.cnf --- file number 228 
+ ===== 0.073 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0303.cnf --- file number 229 
+ ===== 0.057 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0304.cnf --- file number 230 
+ ===== 0.133 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0305.cnf --- file number 231 
+ ===== 0.061 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0306.cnf --- file number 232 
+ ===== 0.083 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0307.cnf --- file number 233 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0308.cnf --- file number 234 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0309.cnf --- file number 235 
+ ===== 0.217 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-031.cnf --- file number 236 
+ ===== 0.163 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0310.cnf --- file number 237 
+ ===== 0.108 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0311.cnf --- file number 238 
+ ===== 0.120 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0312.cnf --- file number 239 
+ ===== 0.092 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0313.cnf --- file number 240 
+ ===== 0.128 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0314.cnf --- file number 241 
+ ===== 0.252 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0315.cnf --- file number 242 
+ ===== 0.116 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0316.cnf --- file number 243 
+ ===== 0.126 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0317.cnf --- file number 244 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0318.cnf --- file number 245 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0319.cnf --- file number 246 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-032.cnf --- file number 247 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0320.cnf --- file number 248 
+ ===== 0.193 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0321.cnf --- file number 249 
+ ===== 0.140 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0322.cnf --- file number 250 
+ ===== 0.196 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0323.cnf --- file number 251 
+ ===== 0.114 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0324.cnf --- file number 252 
+ ===== 0.208 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0325.cnf --- file number 253 
+ ===== 0.208 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0326.cnf --- file number 254 
+ ===== 0.189 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0327.cnf --- file number 255 
+ ===== 0.179 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0328.cnf --- file number 256 
+ ===== 0.136 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0329.cnf --- file number 257 
+ ===== 0.162 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-033.cnf --- file number 258 
+ ===== 0.073 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0330.cnf --- file number 259 
+ ===== 0.093 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0331.cnf --- file number 260 
+ ===== 0.120 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0332.cnf --- file number 261 
+ ===== 0.088 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0333.cnf --- file number 262 
+ ===== 0.088 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0334.cnf --- file number 263 
+ ===== 0.075 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0335.cnf --- file number 264 
+ ===== 0.043 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0336.cnf --- file number 265 
+ ===== 0.201 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0337.cnf --- file number 266 
+ ===== 0.083 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0338.cnf --- file number 267 
+ ===== 0.167 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0339.cnf --- file number 268 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-034.cnf --- file number 269 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0340.cnf --- file number 270 
+ ===== 0.090 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0341.cnf --- file number 271 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0342.cnf --- file number 272 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0343.cnf --- file number 273 
+ ===== 0.087 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0344.cnf --- file number 274 
+ ===== 0.097 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0345.cnf --- file number 275 
+ ===== 0.095 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0346.cnf --- file number 276 
+ ===== 0.074 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0347.cnf --- file number 277 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0348.cnf --- file number 278 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0349.cnf --- file number 279 
+ ===== 0.138 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-035.cnf --- file number 280 
+ ===== 0.120 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0350.cnf --- file number 281 
+ ===== 0.109 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0351.cnf --- file number 282 
+ ===== 0.101 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0352.cnf --- file number 283 
+ ===== 0.039 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0353.cnf --- file number 284 
+ ===== 0.111 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0354.cnf --- file number 285 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0355.cnf --- file number 286 
+ ===== 0.083 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0356.cnf --- file number 287 
+ ===== 0.083 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0357.cnf --- file number 288 
+ ===== 0.070 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0358.cnf --- file number 289 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0359.cnf --- file number 290 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-036.cnf --- file number 291 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0360.cnf --- file number 292 
+ ===== 0.048 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0361.cnf --- file number 293 
+ ===== 0.051 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0362.cnf --- file number 294 
+ ===== 0.120 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0363.cnf --- file number 295 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0364.cnf --- file number 296 
+ ===== 0.115 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0365.cnf --- file number 297 
+ ===== 0.069 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0366.cnf --- file number 298 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0367.cnf --- file number 299 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0368.cnf --- file number 300 
+ ===== 0.056 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0369.cnf --- file number 301 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-037.cnf --- file number 302 
+ ===== 0.113 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0370.cnf --- file number 303 
+ ===== 0.105 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0371.cnf --- file number 304 
+ ===== 0.095 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0372.cnf --- file number 305 
+ ===== 0.050 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0373.cnf --- file number 306 
+ ===== 0.047 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0374.cnf --- file number 307 
+ ===== 0.073 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0375.cnf --- file number 308 
+ ===== 0.095 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0376.cnf --- file number 309 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0377.cnf --- file number 310 
+ ===== 0.122 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0378.cnf --- file number 311 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0379.cnf --- file number 312 
+ ===== 0.059 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-038.cnf --- file number 313 
+ ===== 0.035 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0380.cnf --- file number 314 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0381.cnf --- file number 315 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0382.cnf --- file number 316 
+ ===== 0.124 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0383.cnf --- file number 317 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0384.cnf --- file number 318 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0385.cnf --- file number 319 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0386.cnf --- file number 320 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0387.cnf --- file number 321 
+ ===== 0.059 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0388.cnf --- file number 322 
+ ===== 0.053 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0389.cnf --- file number 323 
+ ===== 0.058 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-039.cnf --- file number 324 
+ ===== 0.069 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0390.cnf --- file number 325 
+ ===== 0.041 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0391.cnf --- file number 326 
+ ===== 0.102 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0392.cnf --- file number 327 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0393.cnf --- file number 328 
+ ===== 0.148 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0394.cnf --- file number 329 
+ ===== 0.053 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0395.cnf --- file number 330 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0396.cnf --- file number 331 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0397.cnf --- file number 332 
+ ===== 0.046 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0398.cnf --- file number 333 
+ ===== 0.163 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0399.cnf --- file number 334 
+ ===== 0.075 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-04.cnf --- file number 335 
+ ===== 0.103 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-040.cnf --- file number 336 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0400.cnf --- file number 337 
+ ===== 0.072 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0401.cnf --- file number 338 
+ ===== 0.070 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0402.cnf --- file number 339 
+ ===== 0.077 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0403.cnf --- file number 340 
+ ===== 0.097 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0404.cnf --- file number 341 
+ ===== 0.063 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0405.cnf --- file number 342 
+ ===== 0.075 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0406.cnf --- file number 343 
+ ===== 0.114 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0407.cnf --- file number 344 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0408.cnf --- file number 345 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0409.cnf --- file number 346 
+ ===== 0.075 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-041.cnf --- file number 347 
+ ===== 0.097 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0410.cnf --- file number 348 
+ ===== 0.102 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0411.cnf --- file number 349 
+ ===== 0.092 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0412.cnf --- file number 350 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0413.cnf --- file number 351 
+ ===== 0.047 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0414.cnf --- file number 352 
+ ===== 0.070 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0415.cnf --- file number 353 
+ ===== 0.041 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0416.cnf --- file number 354 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0417.cnf --- file number 355 
+ ===== 0.104 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0418.cnf --- file number 356 
+ ===== 0.087 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0419.cnf --- file number 357 
+ ===== 0.090 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-042.cnf --- file number 358 
+ ===== 0.107 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0420.cnf --- file number 359 
+ ===== 0.070 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0421.cnf --- file number 360 
+ ===== 0.132 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0422.cnf --- file number 361 
+ ===== 0.131 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0423.cnf --- file number 362 
+ ===== 0.056 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0424.cnf --- file number 363 
+ ===== 0.091 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0425.cnf --- file number 364 
+ ===== 0.162 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0426.cnf --- file number 365 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0427.cnf --- file number 366 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0428.cnf --- file number 367 
+ ===== 0.075 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0429.cnf --- file number 368 
+ ===== 0.104 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-043.cnf --- file number 369 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0430.cnf --- file number 370 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0431.cnf --- file number 371 
+ ===== 0.053 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0432.cnf --- file number 372 
+ ===== 0.078 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0433.cnf --- file number 373 
+ ===== 0.060 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0434.cnf --- file number 374 
+ ===== 0.051 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0435.cnf --- file number 375 
+ ===== 0.166 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0436.cnf --- file number 376 
+ ===== 0.083 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0437.cnf --- file number 377 
+ ===== 0.091 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0438.cnf --- file number 378 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0439.cnf --- file number 379 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-044.cnf --- file number 380 
+ ===== 0.104 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0440.cnf --- file number 381 
+ ===== 0.095 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0441.cnf --- file number 382 
+ ===== 0.144 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0442.cnf --- file number 383 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0443.cnf --- file number 384 
+ ===== 0.071 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0444.cnf --- file number 385 
+ ===== 0.058 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0445.cnf --- file number 386 
+ ===== 0.061 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0446.cnf --- file number 387 
+ ===== 0.058 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0447.cnf --- file number 388 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0448.cnf --- file number 389 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0449.cnf --- file number 390 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-045.cnf --- file number 391 
+ ===== 0.092 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0450.cnf --- file number 392 
+ ===== 0.051 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0451.cnf --- file number 393 
+ ===== 0.115 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0452.cnf --- file number 394 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0453.cnf --- file number 395 
+ ===== 0.155 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0454.cnf --- file number 396 
+ ===== 0.073 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0455.cnf --- file number 397 
+ ===== 0.102 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0456.cnf --- file number 398 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0457.cnf --- file number 399 
+ ===== 0.061 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0458.cnf --- file number 400 
+ ===== 0.107 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0459.cnf --- file number 401 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-046.cnf --- file number 402 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0460.cnf --- file number 403 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0461.cnf --- file number 404 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0462.cnf --- file number 405 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0463.cnf --- file number 406 
+ ===== 0.046 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0464.cnf --- file number 407 
+ ===== 0.042 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0465.cnf --- file number 408 
+ ===== 0.040 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0466.cnf --- file number 409 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0467.cnf --- file number 410 
+ ===== 0.073 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0468.cnf --- file number 411 
+ ===== 0.106 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0469.cnf --- file number 412 
+ ===== 0.063 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-047.cnf --- file number 413 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0470.cnf --- file number 414 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0471.cnf --- file number 415 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0472.cnf --- file number 416 
+ ===== 0.059 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0473.cnf --- file number 417 
+ ===== 0.090 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0474.cnf --- file number 418 
+ ===== 0.143 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0475.cnf --- file number 419 
+ ===== 0.059 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0476.cnf --- file number 420 
+ ===== 0.115 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0477.cnf --- file number 421 
+ ===== 0.043 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0478.cnf --- file number 422 
+ ===== 0.074 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0479.cnf --- file number 423 
+ ===== 0.095 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-048.cnf --- file number 424 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0480.cnf --- file number 425 
+ ===== 0.087 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0481.cnf --- file number 426 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0482.cnf --- file number 427 
+ ===== 0.116 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0483.cnf --- file number 428 
+ ===== 0.096 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0484.cnf --- file number 429 
+ ===== 0.063 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0485.cnf --- file number 430 
+ ===== 0.048 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0486.cnf --- file number 431 
+ ===== 0.044 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0487.cnf --- file number 432 
+ ===== 0.053 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0488.cnf --- file number 433 
+ ===== 0.103 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0489.cnf --- file number 434 
+ ===== 0.127 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-049.cnf --- file number 435 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0490.cnf --- file number 436 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0491.cnf --- file number 437 
+ ===== 0.052 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0492.cnf --- file number 438 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0493.cnf --- file number 439 
+ ===== 0.098 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0494.cnf --- file number 440 
+ ===== 0.069 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0495.cnf --- file number 441 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0496.cnf --- file number 442 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0497.cnf --- file number 443 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0498.cnf --- file number 444 
+ ===== 0.038 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0499.cnf --- file number 445 
+ ===== 0.036 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-05.cnf --- file number 446 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-050.cnf --- file number 447 
+ ===== 0.073 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0500.cnf --- file number 448 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0501.cnf --- file number 449 
+ ===== 0.070 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0502.cnf --- file number 450 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0503.cnf --- file number 451 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0504.cnf --- file number 452 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0505.cnf --- file number 453 
+ ===== 0.152 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0506.cnf --- file number 454 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0507.cnf --- file number 455 
+ ===== 0.033 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0508.cnf --- file number 456 
+ ===== 0.113 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0509.cnf --- file number 457 
+ ===== 0.042 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-051.cnf --- file number 458 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0510.cnf --- file number 459 
+ ===== 0.033 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0511.cnf --- file number 460 
+ ===== 0.088 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0512.cnf --- file number 461 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0513.cnf --- file number 462 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0514.cnf --- file number 463 
+ ===== 0.110 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0515.cnf --- file number 464 
+ ===== 0.054 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0516.cnf --- file number 465 
+ ===== 0.128 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0517.cnf --- file number 466 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0518.cnf --- file number 467 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0519.cnf --- file number 468 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-052.cnf --- file number 469 
+ ===== 0.061 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0520.cnf --- file number 470 
+ ===== 0.097 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0521.cnf --- file number 471 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0522.cnf --- file number 472 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0523.cnf --- file number 473 
+ ===== 0.070 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0524.cnf --- file number 474 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0525.cnf --- file number 475 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0526.cnf --- file number 476 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0527.cnf --- file number 477 
+ ===== 0.101 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0528.cnf --- file number 478 
+ ===== 0.078 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0529.cnf --- file number 479 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-053.cnf --- file number 480 
+ ===== 0.077 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0530.cnf --- file number 481 
+ ===== 0.042 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0531.cnf --- file number 482 
+ ===== 0.048 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0532.cnf --- file number 483 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0533.cnf --- file number 484 
+ ===== 0.052 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0534.cnf --- file number 485 
+ ===== 0.076 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0535.cnf --- file number 486 
+ ===== 0.128 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0536.cnf --- file number 487 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0537.cnf --- file number 488 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0538.cnf --- file number 489 
+ ===== 0.077 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0539.cnf --- file number 490 
+ ===== 0.291 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-054.cnf --- file number 491 
+ ===== 0.117 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0540.cnf --- file number 492 
+ ===== 0.092 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0541.cnf --- file number 493 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0542.cnf --- file number 494 
+ ===== 0.113 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0543.cnf --- file number 495 
+ ===== 0.069 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0544.cnf --- file number 496 
+ ===== 0.096 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0545.cnf --- file number 497 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0546.cnf --- file number 498 
+ ===== 0.132 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0547.cnf --- file number 499 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0548.cnf --- file number 500 
+ ===== 0.088 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0549.cnf --- file number 501 
+ ===== 0.091 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-055.cnf --- file number 502 
+ ===== 0.061 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0550.cnf --- file number 503 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0551.cnf --- file number 504 
+ ===== 0.097 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0552.cnf --- file number 505 
+ ===== 0.095 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0553.cnf --- file number 506 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0554.cnf --- file number 507 
+ ===== 0.055 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0555.cnf --- file number 508 
+ ===== 0.035 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0556.cnf --- file number 509 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0557.cnf --- file number 510 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0558.cnf --- file number 511 
+ ===== 0.076 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0559.cnf --- file number 512 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-056.cnf --- file number 513 
+ ===== 0.124 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0560.cnf --- file number 514 
+ ===== 0.047 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0561.cnf --- file number 515 
+ ===== 0.039 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0562.cnf --- file number 516 
+ ===== 0.131 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0563.cnf --- file number 517 
+ ===== 0.073 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0564.cnf --- file number 518 
+ ===== 0.087 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0565.cnf --- file number 519 
+ ===== 0.087 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0566.cnf --- file number 520 
+ ===== 0.129 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0567.cnf --- file number 521 
+ ===== 0.032 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0568.cnf --- file number 522 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0569.cnf --- file number 523 
+ ===== 0.054 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-057.cnf --- file number 524 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0570.cnf --- file number 525 
+ ===== 0.078 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0571.cnf --- file number 526 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0572.cnf --- file number 527 
+ ===== 0.041 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0573.cnf --- file number 528 
+ ===== 0.110 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0574.cnf --- file number 529 
+ ===== 0.071 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0575.cnf --- file number 530 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0576.cnf --- file number 531 
+ ===== 0.129 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0577.cnf --- file number 532 
+ ===== 0.054 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0578.cnf --- file number 533 
+ ===== 0.228 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0579.cnf --- file number 534 
+ ===== 0.048 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-058.cnf --- file number 535 
+ ===== 0.060 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0580.cnf --- file number 536 
+ ===== 0.038 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0581.cnf --- file number 537 
+ ===== 0.097 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0582.cnf --- file number 538 
+ ===== 0.075 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0583.cnf --- file number 539 
+ ===== 0.076 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0584.cnf --- file number 540 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0585.cnf --- file number 541 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0586.cnf --- file number 542 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0587.cnf --- file number 543 
+ ===== 0.105 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0588.cnf --- file number 544 
+ ===== 0.128 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0589.cnf --- file number 545 
+ ===== 0.074 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-059.cnf --- file number 546 
+ ===== 0.076 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0590.cnf --- file number 547 
+ ===== 0.055 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0591.cnf --- file number 548 
+ ===== 0.074 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0592.cnf --- file number 549 
+ ===== 0.072 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0593.cnf --- file number 550 
+ ===== 0.111 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0594.cnf --- file number 551 
+ ===== 0.087 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0595.cnf --- file number 552 
+ ===== 0.049 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0596.cnf --- file number 553 
+ ===== 0.071 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0597.cnf --- file number 554 
+ ===== 0.088 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0598.cnf --- file number 555 
+ ===== 0.157 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0599.cnf --- file number 556 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-06.cnf --- file number 557 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-060.cnf --- file number 558 
+ ===== 0.120 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0600.cnf --- file number 559 
+ ===== 0.054 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0601.cnf --- file number 560 
+ ===== 0.112 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0602.cnf --- file number 561 
+ ===== 0.055 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0603.cnf --- file number 562 
+ ===== 0.090 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0604.cnf --- file number 563 
+ ===== 0.071 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0605.cnf --- file number 564 
+ ===== 0.063 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0606.cnf --- file number 565 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0607.cnf --- file number 566 
+ ===== 0.077 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0608.cnf --- file number 567 
+ ===== 0.078 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0609.cnf --- file number 568 
+ ===== 0.054 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-061.cnf --- file number 569 
+ ===== 0.140 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0610.cnf --- file number 570 
+ ===== 0.119 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0611.cnf --- file number 571 
+ ===== 0.114 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0612.cnf --- file number 572 
+ ===== 0.063 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0613.cnf --- file number 573 
+ ===== 0.092 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0614.cnf --- file number 574 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0615.cnf --- file number 575 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0616.cnf --- file number 576 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0617.cnf --- file number 577 
+ ===== 0.150 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0618.cnf --- file number 578 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0619.cnf --- file number 579 
+ ===== 0.096 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-062.cnf --- file number 580 
+ ===== 0.041 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0620.cnf --- file number 581 
+ ===== 0.106 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0621.cnf --- file number 582 
+ ===== 0.072 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0622.cnf --- file number 583 
+ ===== 0.045 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0623.cnf --- file number 584 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0624.cnf --- file number 585 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0625.cnf --- file number 586 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0626.cnf --- file number 587 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0627.cnf --- file number 588 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0628.cnf --- file number 589 
+ ===== 0.179 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0629.cnf --- file number 590 
+ ===== 0.056 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-063.cnf --- file number 591 
+ ===== 0.078 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0630.cnf --- file number 592 
+ ===== 0.035 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0631.cnf --- file number 593 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0632.cnf --- file number 594 
+ ===== 0.101 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0633.cnf --- file number 595 
+ ===== 0.048 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0634.cnf --- file number 596 
+ ===== 0.049 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0635.cnf --- file number 597 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0636.cnf --- file number 598 
+ ===== 0.054 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0637.cnf --- file number 599 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0638.cnf --- file number 600 
+ ===== 0.097 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0639.cnf --- file number 601 
+ ===== 0.101 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-064.cnf --- file number 602 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0640.cnf --- file number 603 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0641.cnf --- file number 604 
+ ===== 0.118 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0642.cnf --- file number 605 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0643.cnf --- file number 606 
+ ===== 0.083 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0644.cnf --- file number 607 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0645.cnf --- file number 608 
+ ===== 0.069 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0646.cnf --- file number 609 
+ ===== 0.048 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0647.cnf --- file number 610 
+ ===== 0.051 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0648.cnf --- file number 611 
+ ===== 0.118 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0649.cnf --- file number 612 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-065.cnf --- file number 613 
+ ===== 0.102 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0650.cnf --- file number 614 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0651.cnf --- file number 615 
+ ===== 0.073 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0652.cnf --- file number 616 
+ ===== 0.058 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0653.cnf --- file number 617 
+ ===== 0.071 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0654.cnf --- file number 618 
+ ===== 0.096 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0655.cnf --- file number 619 
+ ===== 0.077 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0656.cnf --- file number 620 
+ ===== 0.073 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0657.cnf --- file number 621 
+ ===== 0.053 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0658.cnf --- file number 622 
+ ===== 0.151 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0659.cnf --- file number 623 
+ ===== 0.096 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-066.cnf --- file number 624 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0660.cnf --- file number 625 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0661.cnf --- file number 626 
+ ===== 0.072 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0662.cnf --- file number 627 
+ ===== 0.055 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0663.cnf --- file number 628 
+ ===== 0.049 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0664.cnf --- file number 629 
+ ===== 0.074 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0665.cnf --- file number 630 
+ ===== 0.108 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0666.cnf --- file number 631 
+ ===== 0.063 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0667.cnf --- file number 632 
+ ===== 0.096 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0668.cnf --- file number 633 
+ ===== 0.076 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0669.cnf --- file number 634 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-067.cnf --- file number 635 
+ ===== 0.101 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0670.cnf --- file number 636 
+ ===== 0.054 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0671.cnf --- file number 637 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0672.cnf --- file number 638 
+ ===== 0.051 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0673.cnf --- file number 639 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0674.cnf --- file number 640 
+ ===== 0.070 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0675.cnf --- file number 641 
+ ===== 0.063 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0676.cnf --- file number 642 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0677.cnf --- file number 643 
+ ===== 0.063 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0678.cnf --- file number 644 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0679.cnf --- file number 645 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-068.cnf --- file number 646 
+ ===== 0.092 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0680.cnf --- file number 647 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0681.cnf --- file number 648 
+ ===== 0.093 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0682.cnf --- file number 649 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0683.cnf --- file number 650 
+ ===== 0.116 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0684.cnf --- file number 651 
+ ===== 0.092 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0685.cnf --- file number 652 
+ ===== 0.097 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0686.cnf --- file number 653 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0687.cnf --- file number 654 
+ ===== 0.051 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0688.cnf --- file number 655 
+ ===== 0.075 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0689.cnf --- file number 656 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-069.cnf --- file number 657 
+ ===== 0.129 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0690.cnf --- file number 658 
+ ===== 0.096 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0691.cnf --- file number 659 
+ ===== 0.076 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0692.cnf --- file number 660 
+ ===== 0.088 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0693.cnf --- file number 661 
+ ===== 0.103 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0694.cnf --- file number 662 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0695.cnf --- file number 663 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0696.cnf --- file number 664 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0697.cnf --- file number 665 
+ ===== 0.101 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0698.cnf --- file number 666 
+ ===== 0.090 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0699.cnf --- file number 667 
+ ===== 0.075 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-07.cnf --- file number 668 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-070.cnf --- file number 669 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0700.cnf --- file number 670 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0701.cnf --- file number 671 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0702.cnf --- file number 672 
+ ===== 0.092 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0703.cnf --- file number 673 
+ ===== 0.059 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0704.cnf --- file number 674 
+ ===== 0.074 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0705.cnf --- file number 675 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0706.cnf --- file number 676 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0707.cnf --- file number 677 
+ ===== 0.071 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0708.cnf --- file number 678 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0709.cnf --- file number 679 
+ ===== 0.107 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-071.cnf --- file number 680 
+ ===== 0.060 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0710.cnf --- file number 681 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0711.cnf --- file number 682 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0712.cnf --- file number 683 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0713.cnf --- file number 684 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0714.cnf --- file number 685 
+ ===== 0.106 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0715.cnf --- file number 686 
+ ===== 0.032 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0716.cnf --- file number 687 
+ ===== 0.073 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0717.cnf --- file number 688 
+ ===== 0.057 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0718.cnf --- file number 689 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0719.cnf --- file number 690 
+ ===== 0.113 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-072.cnf --- file number 691 
+ ===== 0.090 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0720.cnf --- file number 692 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0721.cnf --- file number 693 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0722.cnf --- file number 694 
+ ===== 0.035 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0723.cnf --- file number 695 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0724.cnf --- file number 696 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0725.cnf --- file number 697 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0726.cnf --- file number 698 
+ ===== 0.054 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0727.cnf --- file number 699 
+ ===== 0.047 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0728.cnf --- file number 700 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0729.cnf --- file number 701 
+ ===== 0.050 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-073.cnf --- file number 702 
+ ===== 0.083 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0730.cnf --- file number 703 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0731.cnf --- file number 704 
+ ===== 0.119 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0732.cnf --- file number 705 
+ ===== 0.096 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0733.cnf --- file number 706 
+ ===== 0.051 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0734.cnf --- file number 707 
+ ===== 0.088 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0735.cnf --- file number 708 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0736.cnf --- file number 709 
+ ===== 0.117 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0737.cnf --- file number 710 
+ ===== 0.128 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0738.cnf --- file number 711 
+ ===== 0.150 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0739.cnf --- file number 712 
+ ===== 0.152 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-074.cnf --- file number 713 
+ ===== 0.047 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0740.cnf --- file number 714 
+ ===== 0.132 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0741.cnf --- file number 715 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0742.cnf --- file number 716 
+ ===== 0.069 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0743.cnf --- file number 717 
+ ===== 0.047 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0744.cnf --- file number 718 
+ ===== 0.158 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0745.cnf --- file number 719 
+ ===== 0.115 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0746.cnf --- file number 720 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0747.cnf --- file number 721 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0748.cnf --- file number 722 
+ ===== 0.109 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0749.cnf --- file number 723 
+ ===== 0.135 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-075.cnf --- file number 724 
+ ===== 0.053 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0750.cnf --- file number 725 
+ ===== 0.055 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0751.cnf --- file number 726 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0752.cnf --- file number 727 
+ ===== 0.071 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0753.cnf --- file number 728 
+ ===== 0.074 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0754.cnf --- file number 729 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0755.cnf --- file number 730 
+ ===== 0.040 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0756.cnf --- file number 731 
+ ===== 0.069 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0757.cnf --- file number 732 
+ ===== 0.165 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0758.cnf --- file number 733 
+ ===== 0.043 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0759.cnf --- file number 734 
+ ===== 0.098 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-076.cnf --- file number 735 
+ ===== 0.070 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0760.cnf --- file number 736 
+ ===== 0.115 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0761.cnf --- file number 737 
+ ===== 0.092 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0762.cnf --- file number 738 
+ ===== 0.088 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0763.cnf --- file number 739 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0764.cnf --- file number 740 
+ ===== 0.107 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0765.cnf --- file number 741 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0766.cnf --- file number 742 
+ ===== 0.212 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0767.cnf --- file number 743 
+ ===== 0.195 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0768.cnf --- file number 744 
+ ===== 0.095 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0769.cnf --- file number 745 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-077.cnf --- file number 746 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0770.cnf --- file number 747 
+ ===== 0.048 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0771.cnf --- file number 748 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0772.cnf --- file number 749 
+ ===== 0.137 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0773.cnf --- file number 750 
+ ===== 0.040 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0774.cnf --- file number 751 
+ ===== 0.133 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0775.cnf --- file number 752 
+ ===== 0.048 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0776.cnf --- file number 753 
+ ===== 0.052 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0777.cnf --- file number 754 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0778.cnf --- file number 755 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0779.cnf --- file number 756 
+ ===== 0.072 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-078.cnf --- file number 757 
+ ===== 0.072 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0780.cnf --- file number 758 
+ ===== 0.078 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0781.cnf --- file number 759 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0782.cnf --- file number 760 
+ ===== 0.047 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0783.cnf --- file number 761 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0784.cnf --- file number 762 
+ ===== 0.048 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0785.cnf --- file number 763 
+ ===== 0.097 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0786.cnf --- file number 764 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0787.cnf --- file number 765 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0788.cnf --- file number 766 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0789.cnf --- file number 767 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-079.cnf --- file number 768 
+ ===== 0.058 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0790.cnf --- file number 769 
+ ===== 0.039 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0791.cnf --- file number 770 
+ ===== 0.087 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0792.cnf --- file number 771 
+ ===== 0.118 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0793.cnf --- file number 772 
+ ===== 0.052 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0794.cnf --- file number 773 
+ ===== 0.096 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0795.cnf --- file number 774 
+ ===== 0.030 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0796.cnf --- file number 775 
+ ===== 0.135 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0797.cnf --- file number 776 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0798.cnf --- file number 777 
+ ===== 0.127 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0799.cnf --- file number 778 
+ ===== 0.051 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-08.cnf --- file number 779 
+ ===== 0.078 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-080.cnf --- file number 780 
+ ===== 0.063 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0800.cnf --- file number 781 
+ ===== 0.063 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0801.cnf --- file number 782 
+ ===== 0.112 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0802.cnf --- file number 783 
+ ===== 0.103 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0803.cnf --- file number 784 
+ ===== 0.123 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0804.cnf --- file number 785 
+ ===== 0.043 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0805.cnf --- file number 786 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0806.cnf --- file number 787 
+ ===== 0.072 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0807.cnf --- file number 788 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0808.cnf --- file number 789 
+ ===== 0.113 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0809.cnf --- file number 790 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-081.cnf --- file number 791 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0810.cnf --- file number 792 
+ ===== 0.135 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0811.cnf --- file number 793 
+ ===== 0.037 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0812.cnf --- file number 794 
+ ===== 0.046 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0813.cnf --- file number 795 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0814.cnf --- file number 796 
+ ===== 0.070 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0815.cnf --- file number 797 
+ ===== 0.049 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0816.cnf --- file number 798 
+ ===== 0.117 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0817.cnf --- file number 799 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0818.cnf --- file number 800 
+ ===== 0.054 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0819.cnf --- file number 801 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-082.cnf --- file number 802 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0820.cnf --- file number 803 
+ ===== 0.072 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0821.cnf --- file number 804 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0822.cnf --- file number 805 
+ ===== 0.115 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0823.cnf --- file number 806 
+ ===== 0.073 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0824.cnf --- file number 807 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0825.cnf --- file number 808 
+ ===== 0.105 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0826.cnf --- file number 809 
+ ===== 0.037 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0827.cnf --- file number 810 
+ ===== 0.091 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0828.cnf --- file number 811 
+ ===== 0.183 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0829.cnf --- file number 812 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-083.cnf --- file number 813 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0830.cnf --- file number 814 
+ ===== 0.087 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0831.cnf --- file number 815 
+ ===== 0.057 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0832.cnf --- file number 816 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0833.cnf --- file number 817 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0834.cnf --- file number 818 
+ ===== 0.095 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0835.cnf --- file number 819 
+ ===== 0.046 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0836.cnf --- file number 820 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0837.cnf --- file number 821 
+ ===== 0.138 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0838.cnf --- file number 822 
+ ===== 0.105 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0839.cnf --- file number 823 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-084.cnf --- file number 824 
+ ===== 0.087 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0840.cnf --- file number 825 
+ ===== 0.057 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0841.cnf --- file number 826 
+ ===== 0.071 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0842.cnf --- file number 827 
+ ===== 0.054 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0843.cnf --- file number 828 
+ ===== 0.041 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0844.cnf --- file number 829 
+ ===== 0.076 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0845.cnf --- file number 830 
+ ===== 0.061 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0846.cnf --- file number 831 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0847.cnf --- file number 832 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0848.cnf --- file number 833 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0849.cnf --- file number 834 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-085.cnf --- file number 835 
+ ===== 0.074 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0850.cnf --- file number 836 
+ ===== 0.135 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0851.cnf --- file number 837 
+ ===== 0.055 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0852.cnf --- file number 838 
+ ===== 0.075 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0853.cnf --- file number 839 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0854.cnf --- file number 840 
+ ===== 0.036 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0855.cnf --- file number 841 
+ ===== 0.049 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0856.cnf --- file number 842 
+ ===== 0.056 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0857.cnf --- file number 843 
+ ===== 0.042 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0858.cnf --- file number 844 
+ ===== 0.030 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0859.cnf --- file number 845 
+ ===== 0.049 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-086.cnf --- file number 846 
+ ===== 0.135 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0860.cnf --- file number 847 
+ ===== 0.114 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0861.cnf --- file number 848 
+ ===== 0.058 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0862.cnf --- file number 849 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0863.cnf --- file number 850 
+ ===== 0.038 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0864.cnf --- file number 851 
+ ===== 0.129 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0865.cnf --- file number 852 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0866.cnf --- file number 853 
+ ===== 0.065 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0867.cnf --- file number 854 
+ ===== 0.069 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0868.cnf --- file number 855 
+ ===== 0.055 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0869.cnf --- file number 856 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-087.cnf --- file number 857 
+ ===== 0.091 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0870.cnf --- file number 858 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0871.cnf --- file number 859 
+ ===== 0.124 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0872.cnf --- file number 860 
+ ===== 0.092 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0873.cnf --- file number 861 
+ ===== 0.058 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0874.cnf --- file number 862 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0875.cnf --- file number 863 
+ ===== 0.093 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0876.cnf --- file number 864 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0877.cnf --- file number 865 
+ ===== 0.102 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0878.cnf --- file number 866 
+ ===== 0.114 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0879.cnf --- file number 867 
+ ===== 0.180 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-088.cnf --- file number 868 
+ ===== 0.047 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0880.cnf --- file number 869 
+ ===== 0.113 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0881.cnf --- file number 870 
+ ===== 0.098 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0882.cnf --- file number 871 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0883.cnf --- file number 872 
+ ===== 0.050 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0884.cnf --- file number 873 
+ ===== 0.062 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0885.cnf --- file number 874 
+ ===== 0.057 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0886.cnf --- file number 875 
+ ===== 0.101 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0887.cnf --- file number 876 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0888.cnf --- file number 877 
+ ===== 0.071 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0889.cnf --- file number 878 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-089.cnf --- file number 879 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0890.cnf --- file number 880 
+ ===== 0.102 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0891.cnf --- file number 881 
+ ===== 0.083 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0892.cnf --- file number 882 
+ ===== 0.087 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0893.cnf --- file number 883 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0894.cnf --- file number 884 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0895.cnf --- file number 885 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0896.cnf --- file number 886 
+ ===== 0.119 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0897.cnf --- file number 887 
+ ===== 0.046 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0898.cnf --- file number 888 
+ ===== 0.118 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0899.cnf --- file number 889 
+ ===== 0.098 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-09.cnf --- file number 890 
+ ===== 0.039 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-090.cnf --- file number 891 
+ ===== 0.077 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0900.cnf --- file number 892 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0901.cnf --- file number 893 
+ ===== 0.109 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0902.cnf --- file number 894 
+ ===== 0.071 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0903.cnf --- file number 895 
+ ===== 0.137 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0904.cnf --- file number 896 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0905.cnf --- file number 897 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0906.cnf --- file number 898 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0907.cnf --- file number 899 
+ ===== 0.061 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0908.cnf --- file number 900 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0909.cnf --- file number 901 
+ ===== 0.103 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-091.cnf --- file number 902 
+ ===== 0.042 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0910.cnf --- file number 903 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0911.cnf --- file number 904 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0912.cnf --- file number 905 
+ ===== 0.044 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0913.cnf --- file number 906 
+ ===== 0.094 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0914.cnf --- file number 907 
+ ===== 0.098 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0915.cnf --- file number 908 
+ ===== 0.046 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0916.cnf --- file number 909 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0917.cnf --- file number 910 
+ ===== 0.123 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0918.cnf --- file number 911 
+ ===== 0.098 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0919.cnf --- file number 912 
+ ===== 0.133 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-092.cnf --- file number 913 
+ ===== 0.106 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0920.cnf --- file number 914 
+ ===== 0.098 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0921.cnf --- file number 915 
+ ===== 0.092 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0922.cnf --- file number 916 
+ ===== 0.067 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0923.cnf --- file number 917 
+ ===== 0.044 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0924.cnf --- file number 918 
+ ===== 0.038 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0925.cnf --- file number 919 
+ ===== 0.060 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0926.cnf --- file number 920 
+ ===== 0.052 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0927.cnf --- file number 921 
+ ===== 0.105 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0928.cnf --- file number 922 
+ ===== 0.050 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0929.cnf --- file number 923 
+ ===== 0.086 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-093.cnf --- file number 924 
+ ===== 0.050 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0930.cnf --- file number 925 
+ ===== 0.055 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0931.cnf --- file number 926 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0932.cnf --- file number 927 
+ ===== 0.029 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0933.cnf --- file number 928 
+ ===== 0.078 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0934.cnf --- file number 929 
+ ===== 0.077 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0935.cnf --- file number 930 
+ ===== 0.072 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0936.cnf --- file number 931 
+ ===== 0.120 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0937.cnf --- file number 932 
+ ===== 0.107 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0938.cnf --- file number 933 
+ ===== 0.074 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0939.cnf --- file number 934 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-094.cnf --- file number 935 
+ ===== 0.121 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0940.cnf --- file number 936 
+ ===== 0.093 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0941.cnf --- file number 937 
+ ===== 0.045 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0942.cnf --- file number 938 
+ ===== 0.191 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0943.cnf --- file number 939 
+ ===== 0.056 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0944.cnf --- file number 940 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0945.cnf --- file number 941 
+ ===== 0.084 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0946.cnf --- file number 942 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0947.cnf --- file number 943 
+ ===== 0.082 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0948.cnf --- file number 944 
+ ===== 0.050 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0949.cnf --- file number 945 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-095.cnf --- file number 946 
+ ===== 0.085 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0950.cnf --- file number 947 
+ ===== 0.148 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0951.cnf --- file number 948 
+ ===== 0.049 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0952.cnf --- file number 949 
+ ===== 0.158 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0953.cnf --- file number 950 
+ ===== 0.057 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0954.cnf --- file number 951 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0955.cnf --- file number 952 
+ ===== 0.126 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0956.cnf --- file number 953 
+ ===== 0.066 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0957.cnf --- file number 954 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0958.cnf --- file number 955 
+ ===== 0.100 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0959.cnf --- file number 956 
+ ===== 0.105 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-096.cnf --- file number 957 
+ ===== 0.113 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0960.cnf --- file number 958 
+ ===== 0.096 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0961.cnf --- file number 959 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0962.cnf --- file number 960 
+ ===== 0.083 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0963.cnf --- file number 961 
+ ===== 0.044 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0964.cnf --- file number 962 
+ ===== 0.052 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0965.cnf --- file number 963 
+ ===== 0.164 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0966.cnf --- file number 964 
+ ===== 0.112 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0967.cnf --- file number 965 
+ ===== 0.106 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0968.cnf --- file number 966 
+ ===== 0.070 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0969.cnf --- file number 967 
+ ===== 0.158 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-097.cnf --- file number 968 
+ ===== 0.143 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0970.cnf --- file number 969 
+ ===== 0.080 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0971.cnf --- file number 970 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0972.cnf --- file number 971 
+ ===== 0.108 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0973.cnf --- file number 972 
+ ===== 0.053 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0974.cnf --- file number 973 
+ ===== 0.068 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0975.cnf --- file number 974 
+ ===== 0.044 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0976.cnf --- file number 975 
+ ===== 0.077 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0977.cnf --- file number 976 
+ ===== 0.218 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0978.cnf --- file number 977 
+ ===== 0.092 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0979.cnf --- file number 978 
+ ===== 0.116 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-098.cnf --- file number 979 
+ ===== 0.079 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0980.cnf --- file number 980 
+ ===== 0.103 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0981.cnf --- file number 981 
+ ===== 0.101 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0982.cnf --- file number 982 
+ ===== 0.091 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0983.cnf --- file number 983 
+ ===== 0.058 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0984.cnf --- file number 984 
+ ===== 0.061 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0985.cnf --- file number 985 
+ ===== 0.105 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0986.cnf --- file number 986 
+ ===== 0.083 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0987.cnf --- file number 987 
+ ===== 0.052 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0988.cnf --- file number 988 
+ ===== 0.099 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0989.cnf --- file number 989 
+ ===== 0.105 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-099.cnf --- file number 990 
+ ===== 0.199 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0990.cnf --- file number 991 
+ ===== 0.089 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0991.cnf --- file number 992 
+ ===== 0.127 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0992.cnf --- file number 993 
+ ===== 0.162 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0993.cnf --- file number 994 
+ ===== 0.135 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0994.cnf --- file number 995 
+ ===== 0.073 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0995.cnf --- file number 996 
+ ===== 0.047 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0996.cnf --- file number 997 
+ ===== 0.064 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0997.cnf --- file number 998 
+ ===== 0.059 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0998.cnf --- file number 999 
+ ===== 0.053 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from uuf50-0999.cnf --- file number 1000 
+ ===== 0.081 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+
+ [--------------------------------------------------------------------------------------------------] 
+ ===== 1000 files FINISHED in 1 minute 33.949 seconds ===== 
+ ===== HEURISTIC  VSIDS ===== 
+ ===== SAT  0 ===== 
+ ===== UNSAT  1000 ===== 

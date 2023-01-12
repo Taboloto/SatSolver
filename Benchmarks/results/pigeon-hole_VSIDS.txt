@@ -1,0 +1,41 @@
+Reading from hole10.cnf --- file number 1 
+ ===== 78 minutes 36.961 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from hole6.cnf --- file number 2 
+ ===== 1.218 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from hole7.cnf --- file number 3 
+ ===== 9.748 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from hole8.cnf --- file number 4 
+ ===== 1 minute 13.670 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from hole9.cnf --- file number 5 
+ ===== 11 minutes 8.296 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+
+ [--------------------------------------------------------------------------------------------------] 
+ ===== 5 files FINISHED in 91 minutes 9.893 seconds ===== 
+ ===== HEURISTIC  VSIDS ===== 
+ ===== SAT  0 ===== 
+ ===== UNSAT  5 ===== 

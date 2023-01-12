@@ -1,0 +1,607 @@
+Reading from uuf125-01.cnf --- file number 1 
+  =====  16.560 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-010.cnf --- file number 2 
+  =====  40.586 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-0100.cnf --- file number 3 
+  =====  41.974 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-011.cnf --- file number 4 
+  =====  26.209 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-012.cnf --- file number 5 
+  =====  37.149 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-013.cnf --- file number 6 
+  =====  19.027 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-014.cnf --- file number 7 
+  =====  18.995 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-015.cnf --- file number 8 
+  =====  19.499 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-016.cnf --- file number 9 
+  =====  9.426 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-017.cnf --- file number 10 
+  =====  9.017 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-018.cnf --- file number 11 
+  =====  18.356 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-019.cnf --- file number 12 
+  ===== 1 minute 48.435 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-02.cnf --- file number 13 
+  ===== 2 minutes 9.395 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-020.cnf --- file number 14 
+  =====  10.464 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-021.cnf --- file number 15 
+  ===== 1 minute 8.386 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-022.cnf --- file number 16 
+  =====  52.074 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-023.cnf --- file number 17 
+  =====  28.656 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-024.cnf --- file number 18 
+  =====  35.582 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-025.cnf --- file number 19 
+  =====  46.569 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-026.cnf --- file number 20 
+  =====  14.178 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-027.cnf --- file number 21 
+  =====  18.847 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-028.cnf --- file number 22 
+  ===== 1 minute 17.509 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-029.cnf --- file number 23 
+  ===== 1 minute 21.098 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-03.cnf --- file number 24 
+  =====  16.138 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-030.cnf --- file number 25 
+  =====  48.992 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-031.cnf --- file number 26 
+  ===== 4 minutes 32.966 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-032.cnf --- file number 27 
+  =====  14.696 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-033.cnf --- file number 28 
+  =====  20.019 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-034.cnf --- file number 29 
+  ===== 1 minute 0.519 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-035.cnf --- file number 30 
+  ===== 1 minute 18.266 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-036.cnf --- file number 31 
+  =====  32.677 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-037.cnf --- file number 32 
+  ===== 1 minute 33.151 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-038.cnf --- file number 33 
+  =====  28.979 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-039.cnf --- file number 34 
+  =====  38.101 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-04.cnf --- file number 35 
+  =====  27.393 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-040.cnf --- file number 36 
+  =====  24.970 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-041.cnf --- file number 37 
+  =====  40.646 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-042.cnf --- file number 38 
+  =====  21.534 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-043.cnf --- file number 39 
+  =====  20.004 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-044.cnf --- file number 40 
+  =====  58.295 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-045.cnf --- file number 41 
+  ===== 2 minutes 23.022 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-046.cnf --- file number 42 
+  ===== 1 minute 16.752 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-047.cnf --- file number 43 
+  =====  5.827 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-048.cnf --- file number 44 
+  =====  46.812 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-049.cnf --- file number 45 
+  =====  20.065 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-05.cnf --- file number 46 
+  =====  16.126 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-050.cnf --- file number 47 
+  ===== 7 minutes 8.138 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-051.cnf --- file number 48 
+  =====  25.337 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-052.cnf --- file number 49 
+  =====  23.930 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-053.cnf --- file number 50 
+  ===== 2 minutes 36.549 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-054.cnf --- file number 51 
+  =====  12.521 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-055.cnf --- file number 52 
+  ===== 2 minutes 38.962 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-056.cnf --- file number 53 
+  =====  57.987 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-057.cnf --- file number 54 
+  =====  22.295 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-058.cnf --- file number 55 
+  =====  51.608 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-059.cnf --- file number 56 
+  =====  12.722 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-06.cnf --- file number 57 
+  ===== 1 minute 0.459 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-060.cnf --- file number 58 
+  ===== 1 minute 6.430 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-061.cnf --- file number 59 
+  =====  42.846 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-062.cnf --- file number 60 
+  ===== 1 minute 49.412 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-063.cnf --- file number 61 
+  =====  13.153 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-064.cnf --- file number 62 
+  =====  7.576 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-065.cnf --- file number 63 
+  ===== 2 minutes 8.954 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-066.cnf --- file number 64 
+  =====  18.386 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-067.cnf --- file number 65 
+  =====  53.597 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-068.cnf --- file number 66 
+  =====  10.701 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-069.cnf --- file number 67 
+  =====  32.164 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-07.cnf --- file number 68 
+  ===== 1 minute 31.541 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-070.cnf --- file number 69 
+  =====  11.997 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-071.cnf --- file number 70 
+  =====  22.229 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-072.cnf --- file number 71 
+  =====  14.247 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-073.cnf --- file number 72 
+  =====  18.308 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-074.cnf --- file number 73 
+  =====  38.116 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-075.cnf --- file number 74 
+  =====  17.043 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-076.cnf --- file number 75 
+  =====  22.573 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-077.cnf --- file number 76 
+  =====  26.072 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-078.cnf --- file number 77 
+  =====  57.330 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-079.cnf --- file number 78 
+  =====  20.136 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-08.cnf --- file number 79 
+  =====  28.478 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-080.cnf --- file number 80 
+  =====  34.492 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-081.cnf --- file number 81 
+  =====  17.574 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-082.cnf --- file number 82 
+  =====  52.269 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-083.cnf --- file number 83 
+  =====  17.137 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-084.cnf --- file number 84 
+  =====  13.637 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-085.cnf --- file number 85 
+  ===== 2 minutes 39.853 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-086.cnf --- file number 86 
+  =====  18.871 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-087.cnf --- file number 87 
+  ===== 1 minute 24.883 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-088.cnf --- file number 88 
+  =====  5.389 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-089.cnf --- file number 89 
+  =====  24.432 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-09.cnf --- file number 90 
+  =====  23.979 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-090.cnf --- file number 91 
+  =====  20.730 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-091.cnf --- file number 92 
+  =====  27.493 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-092.cnf --- file number 93 
+  =====  19.199 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-093.cnf --- file number 94 
+  =====  37.569 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-094.cnf --- file number 95 
+  ===== 1 minute 16.123 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-095.cnf --- file number 96 
+  =====  17.355 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-096.cnf --- file number 97 
+  =====  31.430 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-097.cnf --- file number 98 
+  =====  8.514 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-098.cnf --- file number 99 
+  ===== 1 minute 3.501 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  ===== 
+Reading from uuf125-099.cnf --- file number 100 
+  =====  50.113 seconds ===== 
+  ===== ANSWER  UNSAT ===== 
+  ===== MODEL  [] ===== 
+  ===== LEVEL  0 =====
+  ===== PROOF  []  =====
+
+
+
+  ===== FINISHED ALL 100 files in 80 minutes 0.400 seconds ===== 
+  ===== HEURISTIC  VSIDS ===== 
+  ===== SAT  0 =====
+  ===== UNSAT  100 =====

@@ -1,0 +1,34 @@
+Reading from bf0432-007.cnf --- file number 1 
+ ===== 50.448 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from bf1355-075.cnf --- file number 2 
+ ===== 2 minutes 27.843 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from bf1355-638.cnf --- file number 3 
+ ===== 2 minutes 47.374 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+Reading from bf2670-001.cnf --- file number 4 
+ ===== 58.051 seconds  ===== 
+ ===== ANSWER  UNSAT ===== 
+ ===== MODEL  [] ===== 
+ ===== LEVEL  0 =====
+ ===== PROOF  []  ===== 
+ 
+
+ [--------------------------------------------------------------------------------------------------] 
+ ===== 4 files FINISHED in 7 minutes 3.715 seconds ===== 
+ ===== HEURISTIC  VSIDS ===== 
+ ===== SAT  0 ===== 
+ ===== UNSAT  4 ===== 
