@@ -12,11 +12,15 @@ import sys
 def main():
     # INITIALIZATIONS
     sys.setrecursionlimit(10000)
-    args = sys.argv
-    path = args[1]
-    result_filename = path.split('/')[-2]
-    heuristic = args[2]
-    print_proof = args[3]
+    try:
+        args = sys.argv
+        path = args[1]
+        result_filename = path.split('/')[-2]
+        heuristic = args[2]
+        print_proof = args[3]
+    except:
+        raise Exception("Wrong parameters, please try again")
+
     directory = os.listdir(path)
     file_counter, counter_unsat, counter_sat = 0, 0, 0
     total_time = time.time()
