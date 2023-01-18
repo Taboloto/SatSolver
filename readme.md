@@ -1,7 +1,7 @@
 # SAT_SOLVER
 
 ## Intro
-This program is an assignment to achieve an exam for the master degree at the University of Verona.
+This program is an assignment to achieve an exam at the University of Verona.
 
 ## Structure
 + SAT_solver.py: this file contains the main, and it's the one that has to be run
