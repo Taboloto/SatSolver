@@ -5,6 +5,7 @@
 # IMPORTS
 import os
 from solver import solver
+from utils import print_proof
 from readFunctions import *
 import time
 import sys
@@ -17,14 +18,14 @@ def main():
         path = args[1]
         result_filename = path.split('/')[-2]
         heuristic = args[2]
-        print_proof = args[3]
+        want_proof = args[3]
     except:
         raise Exception("Wrong parameters, please try again")
 
     directory = os.listdir(path)
     file_counter, counter_unsat, counter_sat = 0, 0, 0
     total_time = time.time()
-    result = ''
+    result = ""
 
     # PROGRAM
     try:
@@ -55,7 +56,7 @@ def main():
                 minutes_string = ""
 
             # Print result for each file .cnf
-            if print_proof == '-p':
+            if want_proof == '-p':
                 result += f" ====={minutes_string} {seconds:.3f} seconds  ===== \n" \
                           f" ===== ANSWER  {answer} ===== \n" \
                           f" ===== MODEL  {model} ===== \n" \
